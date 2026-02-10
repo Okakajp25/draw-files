@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KdztUeGrHqkGV4MCKPEK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Discord API" vertex="1">
+          <mxGeometry height="80" width="240" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdztUeGrHqkGV4MCKPEK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Stripe" vertex="1">
+          <mxGeometry height="80" width="240" x="730" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="KdztUeGrHqkGV4MCKPEK-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="490" width="640" x="80" y="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
