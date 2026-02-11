@@ -1,29 +1,38 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
   <diagram name="ページ-1" id="cP95HX6pGbPIiaV3LoFd">
-    <mxGraphModel dx="1333" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KdztUeGrHqkGV4MCKPEK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Discord API" vertex="1">
-          <mxGeometry height="80" width="240" x="240" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KdztUeGrHqkGV4MCKPEK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Stripe" vertex="1">
-          <mxGeometry height="80" width="240" x="680" y="40" as="geometry" />
-        </mxCell>
         <mxCell id="KdztUeGrHqkGV4MCKPEK-5" connectable="0" parent="1" style="group;align=center;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="490" width="920" x="120" y="200" as="geometry" />
+          <mxGeometry height="490" width="920" x="20" y="260" as="geometry" />
         </mxCell>
         <mxCell id="KdztUeGrHqkGV4MCKPEK-6" connectable="0" parent="KdztUeGrHqkGV4MCKPEK-5" style="group" value="" vertex="1">
           <mxGeometry height="490" width="920" as="geometry" />
         </mxCell>
-        <mxCell id="KdztUeGrHqkGV4MCKPEK-3" parent="KdztUeGrHqkGV4MCKPEK-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+        <mxCell id="49hZeMRRkofXocBmykZX-1" connectable="0" parent="KdztUeGrHqkGV4MCKPEK-6" style="group" value="" vertex="1">
           <mxGeometry height="490" width="920" as="geometry" />
         </mxCell>
-        <mxCell id="KdztUeGrHqkGV4MCKPEK-7" parent="KdztUeGrHqkGV4MCKPEK-6" style="whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#99FFFF);fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;verticalAlign=middle;align=right;spacingTop=0;spacingBottom=-2;" value="Azure" vertex="1">
+        <mxCell id="KdztUeGrHqkGV4MCKPEK-3" parent="49hZeMRRkofXocBmykZX-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="490" width="920" as="geometry" />
+        </mxCell>
+        <mxCell id="KdztUeGrHqkGV4MCKPEK-7" parent="49hZeMRRkofXocBmykZX-1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#99FFFF);fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;verticalAlign=middle;align=right;spacingTop=0;spacingBottom=-2;" value="Azure" vertex="1">
           <mxGeometry height="60" width="120" as="geometry" />
         </mxCell>
-        <mxCell id="KdztUeGrHqkGV4MCKPEK-4" parent="KdztUeGrHqkGV4MCKPEK-6" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" value="" vertex="1">
+        <mxCell id="KdztUeGrHqkGV4MCKPEK-4" parent="49hZeMRRkofXocBmykZX-1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" value="" vertex="1">
           <mxGeometry height="50" width="53.03" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="49hZeMRRkofXocBmykZX-3" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="160" width="580" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="49hZeMRRkofXocBmykZX-2" parent="49hZeMRRkofXocBmykZX-3" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Oracle Sans;fontSize=11;align=center;arcSize=10;verticalAlign=top;spacingRight=5;fontColor=#312D2A;fillColor=#F5F4F2;strokeColor=#9E9892;" value="&lt;font color=&quot;#181615&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;Internet&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="580" as="geometry" />
+        </mxCell>
+        <mxCell id="KdztUeGrHqkGV4MCKPEK-1" parent="49hZeMRRkofXocBmykZX-3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Discord API" vertex="1">
+          <mxGeometry height="80" width="240" x="30" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KdztUeGrHqkGV4MCKPEK-2" parent="49hZeMRRkofXocBmykZX-3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Stripe" vertex="1">
+          <mxGeometry height="80" width="240" x="310" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
