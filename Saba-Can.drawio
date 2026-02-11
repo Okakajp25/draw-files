@@ -10,7 +10,7 @@
         <mxCell id="KdztUeGrHqkGV4MCKPEK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Stripe" vertex="1">
           <mxGeometry height="80" width="240" x="680" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="KdztUeGrHqkGV4MCKPEK-5" connectable="0" parent="1" style="group" value="" vertex="1">
+        <mxCell id="KdztUeGrHqkGV4MCKPEK-5" connectable="0" parent="1" style="group;align=center;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="490" width="920" x="120" y="200" as="geometry" />
         </mxCell>
         <mxCell id="KdztUeGrHqkGV4MCKPEK-6" connectable="0" parent="KdztUeGrHqkGV4MCKPEK-5" style="group" value="" vertex="1">
@@ -19,11 +19,11 @@
         <mxCell id="KdztUeGrHqkGV4MCKPEK-3" parent="KdztUeGrHqkGV4MCKPEK-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="490" width="920" as="geometry" />
         </mxCell>
-        <mxCell id="KdztUeGrHqkGV4MCKPEK-7" parent="KdztUeGrHqkGV4MCKPEK-6" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
-          <mxGeometry height="60" width="200" as="geometry" />
+        <mxCell id="KdztUeGrHqkGV4MCKPEK-7" parent="KdztUeGrHqkGV4MCKPEK-6" style="whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#99FFFF);fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;verticalAlign=middle;align=right;spacingTop=0;spacingBottom=-2;" value="Azure" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
         </mxCell>
-        <mxCell id="KdztUeGrHqkGV4MCKPEK-4" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" value="" vertex="1">
-          <mxGeometry height="64.12" width="68" x="60" y="110" as="geometry" />
+        <mxCell id="KdztUeGrHqkGV4MCKPEK-4" parent="KdztUeGrHqkGV4MCKPEK-6" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="53.03" x="10" y="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
